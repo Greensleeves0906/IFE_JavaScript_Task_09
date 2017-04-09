@@ -1,0 +1,21 @@
+
+#root{
+	width: 1200px;
+	height: 150px;
+	margin: 0px;
+}
+div {
+    flex: flex;
+    display: -webkit-flex;
+    flex-direction: row;
+    border: 1px solid gray;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+}
+#master{
+    border: 0;
+}
+#master button,input{
+    margin: 10px;
+}
